@@ -21,7 +21,7 @@
 	},
 	{
 		"key": "ctrl+f f",
-		"command": "prettier.forceFormatDocument"
+		"command": "editor.action.formatDocument"
 	},
 	{
 		"key": "ctrl+f r",
